@@ -1,0 +1,60 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+.picture{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin-left: 90%;
+}
+.name {
+    margin-top: 30px;
+} 
+.description {
+    font-size: 20px;
+    margin-top: -15px;
+}
+.container-2 {
+    width: 90%;
+    margin: o auto;
+}
+.expertise {
+    background-color:dimgray;
+    width: 12%;
+}
+nav>ul>li {
+    line-height: 30px;
+    font-size:20px;
+}
+.qualification {
+    background-color: dimgray;
+    width: 21%;
+}
+}
+.experience {
+    background-color: dimgray;
+    width: 10%;
+}
+.details {
+    background-color: dimgray;
+    width: 14%;
+}
+.personal-details {
+    list-style: none;
+}
+.contact {
+    list-style: none;
+}
+
+.flex{
+    display:flex;
+    position: sticky;
+}
+.resume{
+    margin-bottom: -20px;
+}
+.phone{
+    margin-top: -15px;
+}
